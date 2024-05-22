@@ -29,7 +29,8 @@ figcaption {
 #sidenote {
     background-color: #DDDDDD;
     display:inline;
-    border:dashed, 2px,navy;
+     border-color:navy;
+    border-style:dashed;
 }
 a {
     text-decoration: none;
