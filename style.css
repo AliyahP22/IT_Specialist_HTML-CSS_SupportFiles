@@ -4,3 +4,10 @@ color: Darkorchid;
 body{
   background-color:Thistle;
 }
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color:DEB8FA;
+}
