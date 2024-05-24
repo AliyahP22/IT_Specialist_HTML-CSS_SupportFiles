@@ -1,8 +1,12 @@
 h1{
 color: Darkorchid;
+  text-align: center;
 }
 body{
   background-color:Thistle;
+}
+p{
+  text-align:center;
 }
 ul{
   list-style-type:none;
@@ -25,6 +29,7 @@ background-color:purple;
 }
 li.dropDown{
   display:inline-block;
+  background-color:#CFA5F9;
 }
 .dropDown-content{
   display:none;
@@ -44,10 +49,10 @@ text-align:left;
 background-color:#B2A3FF;
 color:blue;
 }
-banner{
-  text-align:center;
-  background-color:#F2B3FE;
-}
+
 .dropDown:hover .dropDown-content{
   display:block;
+}
+.navi{
+  background-color: #CFA5F9;
 }
