@@ -44,6 +44,10 @@ text-align:left;
 background-color:#B2A3FF;
 color:blue;
 }
+banner{
+  text-align:center;
+  background-color:#F2B3FE;
+}
 .dropDown:hover .dropDown-content{
   display:block;
 }
