@@ -55,6 +55,7 @@ color:blue;
 }
 .navi{
   background-color: #CFA5F9;
+  display: flex; justify-content: center; align-items: center;
 }
 .left{
    position: absolute;
